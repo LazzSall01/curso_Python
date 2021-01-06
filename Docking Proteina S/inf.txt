@@ -1,0 +1,2 @@
+receptor = 7ddd.pdbqt
+ligand = amantadine.pdbqt

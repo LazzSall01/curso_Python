@@ -1,0 +1,5 @@
+at gtactcattc gtttcggaag
+    26101 agacaggtac gttaatagtt aatagcgtac ttctttttct tgctttcgtg gtattcttgc
+    26161 tagtcacact agccatcctt actgcgcttc gattgtgtgc gtactgctgc aatattgtta
+    26221 acgtgagtct tgtgaaacct tctttttacg tttactctcg tgttaaaaat ctgaattctt
+    26281 ctagagttcc tgatcttctg gtctaa
